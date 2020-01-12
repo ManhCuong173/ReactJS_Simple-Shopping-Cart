@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 7 Plus",
+    "image": "",
+    "description": "Sản phẩm do AppleInc. sản xuất",
+    "price": 500,
+    "inventory": 10,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "Iphone 8 Plus",
+    "image": "",
+    "description": "Sản phẩm do AppleInc. sản xuất",
+    "price": 800,
+    "inventory": 6,
+    "rating": 3
+  },
+  {
+    "id": 3,
+    "name": "Iphone X",
+    "image": "",
+    "description": "Sản phẩm do AppleInc. sản xuất",
+    "price": 1200,
+    "inventory": 8,
+    "rating": 2
+  }
+]
